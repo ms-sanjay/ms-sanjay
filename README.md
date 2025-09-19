@@ -1,9 +1,9 @@
 <!-- Header -->
 <h2 align="center">Hi 👋, I'm Sanjay | Embedded Systems & Software Enthusiast</h2>
 
-<!-- Animated Typing Header -->
+<!-- Animated Typing Header (external service; if this fails use the data-URI fallback provided in the notes) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;Microcontrollers+%7C+Bare-Metal+Drivers;Machine+Learning+%7C+Fullstack+Web+%7C+Cloud;Electronics+%7C+VLSI+%7C+Computer+Networks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&height=60&lines=Embedded%20Systems%20%7C%20IoT%20%7C%20Verilog%20HDL;Microcontrollers%20%7C%20Bare-Metal%20Drivers;Machine%20Learning%20%7C%20Fullstack%20Web%20%7C%20Cloud;Electronics%20%7C%20VLSI%20%7C%20Computer%20Networks" />
 </p>
 
 ---
@@ -13,14 +13,10 @@ I engineer systems where **electronics merges with software**.
 From **bare-metal STM32 drivers and Verilog DMA controllers** to **IoT platforms and ML-powered web apps**, my work spans across hardware and software domains.  
 My aim is to design **resilient, futuristic solutions** that combine **hardware precision with intelligent software**.  
 
----
-
-<!-- Neon Divider -->
+<!-- Neon Divider (data-URI SVG for reliability) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+  <img alt="neon-divider" width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' width='100%' height='8'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%2300FFFF'/><stop offset='0.5' stop-color='%23FF00FF'/><stop offset='1' stop-color='%23FFD700'/></linearGradient></defs><rect width='100%' height='8' rx='4' fill='url(%23g)' /></svg>" />
 </p>
-
----
 
 ## ⚙️ Skills & Tools  
 <p align="center">
@@ -29,14 +25,10 @@ My aim is to design **resilient, futuristic solutions** that combine **hardware 
   <img src="https://skillicons.dev/icons?i=embedded,verilog,vscode,cisco,arduino,raspberrypi" />
 </p>
 
----
-
 <!-- Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+  <img alt="neon-divider" width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' width='100%' height='8'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%2300FFFF'/><stop offset='0.5' stop-color='%23FF00FF'/><stop offset='1' stop-color='%23FFD700'/></linearGradient></defs><rect width='100%' height='8' rx='4' fill='url(%23g)' /></svg>" />
 </p>
-
----
 
 ## 📂 Featured Projects  
 
@@ -84,14 +76,10 @@ Designed a Direct Memory Access controller for fast hardware memory transfers.
 Developed custom low-level drivers for STM32 peripherals without vendor libraries.  
 ✔ Learned register-level programming & hardware abstraction.  
 
----
-
 <!-- Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+  <img alt="neon-divider" width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' width='100%' height='8'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%2300FFFF'/><stop offset='0.5' stop-color='%23FF00FF'/><stop offset='1' stop-color='%23FFD700'/></linearGradient></defs><rect width='100%' height='8' rx='4' fill='url(%23g)' /></svg>" />
 </p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -103,28 +91,10 @@ Developed custom low-level drivers for STM32 peripherals without vendor librarie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-sanjay&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
-</p>
-
----
-
 ## 🧩 LeetCode  
 <p align="center">
   <img src="https://leetcode.card.workers.dev/Sanjay_2?theme=dark&font=baloo"/>
 </p>
-
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
-</p>
-
----
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -133,8 +103,6 @@ Developed custom low-level drivers for STM32 peripherals without vendor librarie
   <a href="https://ms-sanjay.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Sanjay_2/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 </p>
-
----
 
 <p align="center">
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ms-sanjay.ms-sanjay)
