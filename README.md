@@ -1,81 +1,91 @@
-# Hi, I'm Sanjay M.S! 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://ms-sanjay.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/your-leetcode-profile/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi, I'm Sanjay M.S.;An+Electronics+%26+Communication+Engineer;A+Biomedical+Engineering+Specialist;An+Embedded+Systems+Developer;A+Lifelong+Learner" alt="Typing SVG" />
 
-An Electronics and Communication Engineering student at **VIT Vellore** with a strong passion for both hardware and software development. I specialize in **Biomedical Engineering** and enjoy building practical, innovative solutions with embedded systems, IoT, and web technologies.
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently pursuing a **B.Tech in Electronics and Communication Engineering** (CGPA: 9.48).
-- 💡 My interests lie at the intersection of embedded firmware development, VLSI, and machine learning.
-- 🌱 I'm always eager to learn new technologies and contribute to impactful, real-world projects.
-- 🏆 Recipient of a 100% tuition fee scholarship under the **STARS Scheme** at VIT.
--  Solving problems on **LeetCode** (400+ solved).
-
----
-
-### 🛠️ My Tech Stack
-
-My technical skills include a variety of programming languages, tools, and platforms for building robust applications.
-
-**Programming Languages**
-<p align="left">
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"></a>
-  <a href="#"><img alt="Embedded C" src="https://img.shields.io/badge/Embedded C-A8B9CC?style=flat-square&logo=c&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
-</p>
-
-**Technical Domains & Tools**
-<p align="left">
-  <a href="#"><img alt="Embedded Systems" src="https://img.shields.io/badge/Embedded Systems-000000?style=flat-square&logo=espressif"></a>
-  <a href="#"><img alt="VLSI" src="https://img.shields.io/badge/VLSI-555555?style=flat-square"></a>
-  <a href="#"><img alt="IoT" src="https://img.shields.io/badge/IoT-212121?style=flat-square"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Keil" src="https://img.shields.io/badge/Keil-00A98F?style=flat-square"></a>
-  <a href="#"><img alt="Proteus" src="https://img.shields.io/badge/Proteus-1E4E8C?style=flat-square"></a>
-  <a href="#"><img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco"></a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-Here are a few projects that showcase my skills and experience.
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **Emergency Chat Box** | An offline emergency communication system using ESP8266 modules to create a mesh network. Features real-time chat via a web interface and an OLED display. | `ESP8266` `WebSockets` `C++` | [GitHub Repo](https://github.com/ms-sanjay/EmergencyChatBox) |
-| **ML-Based Foot Arch Detection** | A web-based tool that classifies foot arch types (normal, flat, high) from images using CNN and SVM models to assist in footwear recommendations. | `Python` `CNN` `SVM` `Flask` | [GitHub Repo](https://github.com/ms-sanjay/your-repo-name) |
-| **STM32 Driver APIs** | Low-level peripheral driver code for the STM32F407xx microcontroller, written in C using register-level programming for GPIO and SPI drivers. | `C` `STM32` `Embedded` | [GitHub Repo](https://github.com/ms-sanjay/STM32_Driver_APIs) |
-| **Smart Car Parking System** | An automated car parking management system using an 8051 microcontroller, IR sensors for slot detection, and an LCD for status updates. | `8051` `Embedded C` `Proteus` | [GitHub Repo](https://github.com/ms-sanjay/CarParkingSystem) |
-
----
-
-### 📊 My GitHub Stats
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms-sanjay&show_icons=true&theme=dracula" alt="ms-sanjay's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-sanjay&layout=compact&theme=dracula" alt="Top Languages" />
+  <a href="https://ms-sanjay.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/your-leetcode-profile/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:mssanjay180@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 📫 Let's Connect!
+<div align="center">
 
-- **Email**: `mssanjay180@gmail.com`
-- **LinkedIn**: [Sanjay M.S](https://www.linkedin.com/in/your-linkedin-profile)
-- **Portfolio**: [ms-sanjay.github.io/Portfolio/](https://ms-sanjay.github.io/Portfolio/)
+### **Connecting Hardware and Software to Build Innovative Solutions**
 
-_**Note**: Remember to replace the placeholder URLs for your LinkedIn and LeetCode profiles!_
+</div>
+
+I am a passionate **Electronics and Communication Engineering** student from **VIT Vellore**, specializing in **Biomedical Engineering**. My goal is to leverage my expertise in embedded systems, firmware, and software to build practical and impactful technology. I thrive on solving complex problems and am constantly exploring the boundaries of hardware-software integration.
+
+- 🔭 I’m currently working on low-level drivers for **STM32 microcontrollers**.
+- 🌱 I’m currently learning **advanced topics in RTOS and VLSI design**.
+- 👯 I’m looking to collaborate on **open-source embedded systems or IoT projects**.
+- 💬 Ask me about **C++, Embedded C, IoT, and microcontroller programming**.
+- 🏆 **STARS Scholar** at VIT & District 1st Rank Holder in HSC.
+
+---
+
+### 🚀 **Core Technologies & Skills**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,embeddedc,html,css,js,mysql" alt="Programming Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,figma,postman" alt="Tools & Platforms" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,espressif" alt="Hardware & Embedded" />
+</p>
+
+<details>
+<summary><b>Click to see the full list of my skills</b></summary>
+<br>
+
+| Category | Skills |
+|---|---|
+| **Languages** | C, C++, Embedded C, Java, Verilog, ALP, MySQL, HTML, CSS, JavaScript |
+| **Domains** | Embedded Systems, Digital Electronics, Computer Networks, VLSI, IoT |
+| **Tools** | Keil, Proteus, Cisco Packet Tracer, ModelSim, Cadence Virtuoso, Git |
+| **Platforms** | AWS (Cloud Practitioner), STM32, ESP32/8266, 8051 |
+
+</details>
+
+---
+
+### ✨ **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Technologies | Repository |
+|---|---|---|---|
+| 🛰️ **Emergency Chat Box** | An offline, mesh-networked emergency communication system for real-time chat via a web interface and OLED display. | `ESP8266`, `WebSockets`, `C++` | [Link](https://github.com/ms-sanjay/EmergencyChatBox) |
+| 👣 **ML Foot Arch Detection** | A web tool that classifies foot arch types from images using CNN and SVM models to aid in footwear selection. | `Python`, `CNN`, `SVM`, `Flask` | [Link](https://github.com/ms-sanjay/your-repo-name) |
+| 🔩 **STM32 Driver APIs** | Custom-built, low-level peripheral drivers (GPIO, SPI) for the STM32F407xx microcontroller, developed using register-level C programming. | `C`, `STM32`, `Embedded` | [Link](https://github.com/ms-sanjay/STM32_Driver_APIs) |
+| 🅿️ **Smart Car Parking System** | An automated parking management system using an 8051 microcontroller, IR sensors for slot detection, and servo motors. | `8051`, `Embedded C`, `Proteus`| [Link](https://github.com/ms-sanjay/CarParkingSystem) |
+
+</div>
+
+---
+
+### 📊 **My GitHub Analytics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ms-sanjay&show_icons=true&theme=tokyonight&rank_icon=github" alt="Sanjay's GitHub Stats" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ms-sanjay&theme=tokyonight" alt="Sanjay's GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-sanjay&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+_Remember to replace the placeholder URLs for your LinkedIn, LeetCode, and project repositories to make the profile fully functional._
+
+</div>
 ```
