@@ -31,7 +31,7 @@
 
 ---
 
-## 📂 My Repos  
+## My Repos  
 <p align="center">
   <a href="https://github.com/ms-sanjay/CarParkingSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms-sanjay&repo=CarParkingSystem&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" />
