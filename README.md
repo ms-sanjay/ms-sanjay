@@ -12,6 +12,13 @@ My aim is to design **resilient, futuristic solutions** that combine **hardware 
 
 ---
 
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+</p>
+
+---
+
 ## ⚙️ Skills & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,flask,mysql,git,github,linux,aws" />
@@ -21,16 +28,59 @@ My aim is to design **resilient, futuristic solutions** that combine **hardware 
 
 ---
 
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+</p>
+
+---
+
 ## 📂 Featured Projects  
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [Car Parking System](https://github.com/ms-sanjay/CarParkingSystem) | 8051, Assembly, Keil, Proteus | Smart parking automation with IR sensors |
-| [Flood Detection System](https://github.com/Pugal-M/Flood_Management) | ESP32, Firebase, Flutter | IoT-based flood monitoring with alerts |
-| [Emergency Chat Box](https://github.com/ms-sanjay/EmergencyChatBox) | ESP8266, WebSockets | Offline communication for disaster scenarios |
-| [ML Foot Arch Detection](https://github.com/ms-sanjay) | React, Flask, CNN, SVM | AI-powered health classification tool |
-| [DMA Controller](https://github.com/ms-sanjay) | Verilog HDL | Hardware design of a DMA controller |
-| [STM32 Bare-Metal Drivers](https://github.com/ms-sanjay) | Embedded C, STM32 | Peripheral drivers built from scratch |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/project-card.gif" width="90%">
+</p>
+
+### 🔹 [Car Parking System](https://github.com/ms-sanjay/CarParkingSystem)  
+**Tech:** 8051, Assembly, Keil, Proteus  
+A smart parking automation project with IR sensors and motorized gates.  
+
+---
+
+### 🔹 [Flood Detection System](https://github.com/Pugal-M/Flood_Management)  
+**Tech:** ESP32, Firebase, Flutter  
+IoT-based flood monitoring solution with real-time mobile alerts.  
+
+---
+
+### 🔹 [Emergency Chat Box](https://github.com/ms-sanjay/EmergencyChatBox)  
+**Tech:** ESP8266, WebSockets  
+Offline communication system enabling disaster-resilient messaging.  
+
+---
+
+### 🔹 [ML Foot Arch Detection](https://github.com/ms-sanjay)  
+**Tech:** React, Flask, CNN, SVM  
+AI-powered tool for medical foot arch classification and pressure mapping.  
+
+---
+
+### 🔹 [DMA Controller](https://github.com/ms-sanjay)  
+**Tech:** Verilog HDL  
+Designed a Direct Memory Access controller for fast hardware memory transfers.  
+
+---
+
+### 🔹 [STM32 Bare-Metal Drivers](https://github.com/ms-sanjay)  
+**Tech:** Embedded C, STM32  
+Developed custom low-level drivers for STM32 peripherals without vendor libraries.  
+
+---
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+</p>
 
 ---
 
@@ -42,9 +92,23 @@ My aim is to design **resilient, futuristic solutions** that combine **hardware 
 
 ---
 
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
+</p>
+
+---
+
 ## 🧩 LeetCode  
 <p align="center">
   <img src="https://leetcode.card.workers.dev/Sanjay_2?theme=dark&font=baloo"/>
+</p>
+
+---
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon-divider.gif" width="100%">
 </p>
 
 ---
