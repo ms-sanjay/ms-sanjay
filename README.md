@@ -4,8 +4,10 @@
 
 ## </> Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,flask,mysql,git,github,linux,aws" />
-  <img src="https://skillicons.dev/icons?i=embedded,verilog,vscode,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,flask,mysql,git,github,linux,aws" height="40" />
+
+  <img src="https://skillicons.dev/icons?i=vscode,arduino,raspberrypi" height="40" />
+
 </p>
 
 ## 🗀 My Repos  
