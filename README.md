@@ -74,12 +74,9 @@
 
 ## 🧩 LeetCode  
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/Sanjay_2?theme=dark&font=baloo"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Sanjay_2&theme=dark&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF&icon_color=FFD700&border_color=0D1117" height="200"/>
 </p>
 
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/ms-sanjay/ms-sanjay/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
-</p>
+
