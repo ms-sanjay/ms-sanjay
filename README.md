@@ -1,26 +1,14 @@
-<!-- Cyberpunk Banner -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ms-sanjay/ms-sanjay/main/assets/Banner.jpg" alt="Cyberpunk Tech Banner" width="100%" height="70%">
-</p>
-
-<!-- Animated Typing: Domains -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;Micro+Controllers+%7C+Bare-Metal+Drivers;Fullstack+Web+%7C+Machine+Learning+%7C+Cloud;Electronics+%7C+VLSI+%7C+Computer+Networks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;Microcontrollers+%7C+Bare-Metal+Drivers;Machine+Learning+%7C+Fullstack+Web+%7C+Cloud;Electronics+%7C+VLSI+%7C+Computer+Networks"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-I build systems where **electronics integrates with software**.  
-From **bare-metal STM32 drivers and Verilog DMA controllers** to **AI-powered web apps and IoT platforms**, I work across layers of technology.  
-My goal is to design **futuristic, resilient, and intelligent solutions** that merge **hardware precision with software intelligence**.  
-
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/cpu-divider.gif" width="80%">
-</p>
+I engineer systems where **electronics merges with software**.  
+From **bare-metal STM32 drivers and Verilog DMA controllers** to **IoT platforms and ML-powered web apps**, my work spans across hardware and software domains.  
+My aim is to design **resilient, futuristic solutions** that combine **hardware precision with intelligent software**.  
 
 ---
 
@@ -60,11 +48,6 @@ My goal is to design **futuristic, resilient, and intelligent solutions** that m
 </p>
 
 ---
-
-<!-- Cyberpunk Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/cyberpunk-footer.gif" width="100%">
-</p>
 
 ## 🌐 Connect With Me  
 <p align="center">
