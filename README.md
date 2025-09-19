@@ -1,23 +1,16 @@
-<!-- Futuristic Banner -->
+<!-- Futuristic Neon Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=&fontSize=30&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0f0c29&height=100&section=header&text=Future-Tech%20Portfolio&fontSize=32&fontColor=00FFFF&animation=fadeIn"/>
 </p>
 
-<!-- Typing Animation: Skills + Domains -->
+<!-- Animated Skills / Domains -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;DMA+Controllers+%7C+Bare-Metal+Drivers;Fullstack+Web+%7C+ML+%7C+Cloud;Digital+Electronics+%7C+VLSI+%7C+Computer+Networks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;DMA+Controllers+%7C+Bare-Metal+Drivers;Machine+Learning+%7C+Fullstack+Web+%7C+Cloud;Digital+Electronics+%7C+VLSI+%7C+Computer+Networks"/>
 </p>
 
 ---
 
-## About Me
-I design and develop systems that integrate both **hardware and software** to create efficient, real-world solutions.  
-My work spans **embedded systems, IoT devices, and digital hardware design** while also building **software applications, ML-based tools, and cloud-integrated platforms**.  
-I enjoy working on projects that push boundaries across domains—ranging from **low-level firmware and DMA controllers** to **AI-powered web apps and disaster-resilient communication systems**.
-
----
-
-## Tech Stack
+## Skills & Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,flask,mysql,git,github,linux,aws"/>
   <br/>
@@ -26,45 +19,71 @@ I enjoy working on projects that push boundaries across domains—ranging from *
 
 ---
 
-## GitHub Projects
+## About Me
+I engineer solutions where **electronics meets software**.  
+My focus is on building systems that combine **low-level hardware design** (Verilog HDL, DMA controllers, embedded drivers) with **intelligent software platforms** (IoT, ML, fullstack apps).  
+I enjoy working across layers — from designing circuits and firmware to deploying scalable cloud-backed applications.
 
+---
+
+## GitHub Portfolio
+
+<table>
+<tr>
+<td width="50%">
+  
 ### [Car Parking System](https://github.com/ms-sanjay/CarParkingSystem)  
-**Tech:** 8051, Assembly Language, IR Sensors, Keil, Proteus  
-Designed a smart parking system with automated gate control and slot detection using microcontroller programming.
-
----
-
+**Tech:** 8051, Assembly, Keil, Proteus  
+Smart parking automation with IR sensors and motorized gates.
+  
+</td>
+<td width="50%">
+  
 ### [Flood Detection System](https://github.com/Pugal-M/Flood_Management)  
-**Tech:** ESP32, Ultrasonic Sensors, Firebase, Flutter  
-Built an IoT-based flood monitoring solution that provides real-time severity alerts via a mobile application.
+**Tech:** ESP32, Flutter, Firebase  
+IoT flood monitoring with real-time mobile alerts.
+  
+</td>
+</tr>
 
----
-
+<tr>
+<td width="50%">
+  
 ### [Emergency Chat Box](https://github.com/ms-sanjay/EmergencyChatBox)  
-**Tech:** ESP8266, WebSockets, Local Network Communication  
-Developed an offline messaging system for disaster scenarios, enabling real-time communication without internet connectivity.
+**Tech:** ESP8266, WebSockets  
+Offline disaster-resilient messaging system.
+  
+</td>
+<td width="50%">
+  
+### [ML Foot Arch Detection](https://github.com/ms-sanjay)  
+**Tech:** React, Flask, CNN, SVM  
+AI-powered classification of foot arch types.
+  
+</td>
+</tr>
 
----
-
-### [ML-Based Foot Arch Detection](https://github.com/ms-sanjay)  
-**Tech:** React, Python Flask, CNN, SVM  
-Created a web tool that classifies foot arch types from footprint images and generates pressure maps for medical use.
-
----
-
+<tr>
+<td width="50%">
+  
 ### [DMA Controller](https://github.com/ms-sanjay)  
-**Tech:** Verilog HDL, Digital Design  
-Implemented a Direct Memory Access controller to handle fast data transfers, demonstrating hardware efficiency in system design.
-
----
-
+**Tech:** Verilog HDL  
+Direct Memory Access controller for efficient data transfers.
+  
+</td>
+<td width="50%">
+  
 ### [STM32 Bare-Metal Drivers](https://github.com/ms-sanjay)  
-**Tech:** Embedded C, STM32 Microcontroller  
-Developed low-level peripheral drivers from scratch, including GPIO, timers, and communication protocols, without relying on vendor libraries.
+**Tech:** Embedded C, STM32  
+Peripheral drivers built from scratch without vendor libraries.
+  
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub & LeetCode Stats
+## GitHub & LeetCode
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ms-sanjay&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-sanjay&theme=radical&hide_border=true" height="160"/>
@@ -76,15 +95,10 @@ Developed low-level peripheral drivers from scratch, including GPIO, timers, and
 
 ---
 
-## Contact
+## Connect
 <p align="center">
-  <a href="mailto:mssanjay180@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sanjay234/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ms-sanjay.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Sanjay_2/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
-
-<!-- Futuristic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
+  <a href="mailto:mssanjay180@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sanjay234/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ms-sanjay.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Sanjay_2/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 </p>
