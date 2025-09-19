@@ -1,6 +1,6 @@
 <!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/cyberpunk-banner.gif" alt="Cyberpunk Tech Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ms-sanjay/ms-sanjay/main/assets/Banner.gif" alt="Cyberpunk Tech Banner" width="100%">
 </p>
 
 <!-- Animated Typing: Domains -->
