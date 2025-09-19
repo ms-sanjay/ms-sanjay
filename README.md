@@ -1,23 +1,9 @@
-<!-- Cyberpunk Banner -->
+
 <p align="center">
-  <img src="./assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+Verilog+HDL+%7C+IoT+%7C;Bare+Metal+Drivers;AI+%7C+VLSI+%7C+Cloud+%7C+Web" />
 </p>
 
----
 
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems;Verilog+HDL+%7C+IoT+%7C+Bare+Metal+Drivers;AI+%7C+VLSI+%7C+Cloud+%7C+Web" />
-</p>
-
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="./assets/neon-divider.gif" width="80%">
-</p>
-
----
 
 ## </> Tech Stack  
 <p align="center">
@@ -25,14 +11,6 @@
   <img src="https://skillicons.dev/icons?i=embedded,verilog,vscode,arduino,raspberrypi" />
 </p>
 
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="./assets/neon-divider.gif" width="80%">
-</p>
-
----
 
 ## 🗀 My Repos  
 <p align="center">
@@ -57,13 +35,6 @@
   
 </p>
 
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="./assets/neon-divider.gif" width="80%">
-</p>
-
 
 ## Stats  
 <p align="center">
@@ -72,10 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-sanjay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="160"/>
 </p>
 
-## 🧩 LeetCode  
+## LeetCode  
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Sanjay_2&theme=dark&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF&icon_color=FFD700&border_color=0D1117" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/Sanjay_2?theme=dark&ext=heatmap&font=baloo&border=0D1117&title_color=FF00FF&text_color=00FFFF" />
 </p>
+
+
 
 
 
