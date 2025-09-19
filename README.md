@@ -5,7 +5,7 @@
 
 <!-- Animated Typing: Domains -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;DMA+Controllers+%7C+Bare-Metal+Drivers;Fullstack+Web+%7C+Machine+Learning+%7C+Cloud;Electronics+%7C+VLSI+%7C+Computer+Networks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%7C+IoT+%7C+Verilog+HDL;Micro+Controllers+%7C+Bare-Metal+Drivers;Fullstack+Web+%7C+Machine+Learning+%7C+Cloud;Electronics+%7C+VLSI+%7C+Computer+Networks"/>
 </p>
 
 ---
