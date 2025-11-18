@@ -21,6 +21,12 @@
   <a href="https://github.com/ms-sanjay/DMA_FSM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms-sanjay&repo=DMA_FSM&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF" />
   </a>
+    <a href="https://github.com/ms-sanjay/Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms-sanjay&repo=Classifier&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF" />
+  </a>
+    <a href="https://github.com/ms-sanjay/TODO_React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms-sanjay&repo=TODO_React&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF" />
+  </a>
   <a href="https://github.com/ms-sanjay/EmergencyChatBox">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms-sanjay&repo=EmergencyChatBox&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF" />
   </a>
